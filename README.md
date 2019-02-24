@@ -1,10 +1,10 @@
 # Spring-Boot-Jokes-App
 
-This example of Spring 5 application contains simple way how to add 'Bean' in to the application context by Java Base Configuration.
+This application shows how to add in a simple way "Bean" into the application context through the java base configuration.
 
-# What does the app do
+# What does the app do?
 
-Application generate random Chuck Norris joke in to the index page. All you have to do is refresh the page to get new one joke.
+This application generates random Chuck Norris joke into the index page. All you have to do is refresh the page to get a new joke.
 
   # How to run:
   Download application from repository.
